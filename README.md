@@ -8,5 +8,4 @@ Windows includes the option to install and run Linux inside of Windows. It is si
 
 You can now launch Ubuntu from your start menu. The first time you will be asked to set a username and password for your Linux account (be sure to remember these or write them down). Finally, run the following command to install the necessary build tools:
 apt update && apt upgrade -y && apt install build-essential gdb -y
-For more instructions and troubleshooting, see [this](https://docs.microsoft.com/en-us/windows/wsl/
-troubleshooting).
+For more instructions and troubleshooting, see [this](https://docs.microsoft.com/en-us/windows/wsl/troubleshooting).
