@@ -17,7 +17,7 @@ To open a file, you first need to open it. f your files are at C:\Users\Student\
 
 cd /mnt/c/Users/Student/Documents/CO/Lab
 
-Visual Studio Code has an extension for easy integration with WSL. You can find it [here](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl). On Visual Studio code, install GNU Assembler Language Support as follows:
+Visual Studio Code has an extension for easy integration with WSL. You can find it [here](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl). In Visual Studio code, install GNU Assembler Language Support as follows:
 1. Launch VS Code Quick Open (Ctrl + P)
 2. Paste ext install basdp.language-gas-x86
 3. Press enter
