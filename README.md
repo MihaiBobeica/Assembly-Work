@@ -11,3 +11,8 @@ You can now launch Ubuntu from your start menu. The first time you will be asked
 apt update && apt upgrade -y && apt install build-essential gdb -y
 
 For more instructions and troubleshooting, see [this](https://docs.microsoft.com/en-us/windows/wsl/troubleshooting).
+
+## Running a file
+To open a file, you first need to open it. f your files are at C:\Users\Student\Documents\CO\Lab, you should use the following command to navigate to it in WSL (case sensitive!):
+
+cd /mnt/c/Users/Student/Documents/CO/Lab
