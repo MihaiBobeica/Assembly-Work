@@ -4,4 +4,4 @@ This repository has some of the projects in x64 Assembly which I've implemented 
 ## WSL: Windows Subsystem for Linux
 $\textit{Supported systems: Windows 10 and 11}$
 
-Windows includes the option to install and run Linux inside of Windows. It is simple to install and set up. Follow the instructions from the part under [“Install WSL command”](https://docs.microsoft.com/en-us/windows/wsl/install).
+Windows includes the option to install and run Linux inside of Windows. It is simple to install and set up. Follow the instructions from the part under [“Install WSL command”](https://docs.microsoft.com/en-us/windows/wsl/install). If any issues occur, you can follow the instructions from the [microsoft install menu](https://docs.microsoft.com/en-us/windows/wsl/install-manual). When instructed, install the “Ubuntu” app from the store (the one without version number).
