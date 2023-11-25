@@ -17,5 +17,4 @@ To open a file, you first need to open it. f your files are at C:\Users\Student\
 
 cd /mnt/c/Users/Student/Documents/CO/Lab
 
-Visual Studio Code has an extension for easy integration with WSL. You can find it at https://
-marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl
+Visual Studio Code has an extension for easy integration with WSL. You can find it [here](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl).
