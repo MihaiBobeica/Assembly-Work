@@ -39,5 +39,6 @@ To run the code, we then type the following command:
 ./nameofyourprogram
 </p>
 
+Now the code should be running !!
 
 
