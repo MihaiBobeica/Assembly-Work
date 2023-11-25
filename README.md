@@ -8,7 +8,9 @@ Windows includes the option to install and run Linux inside of Windows. It is si
 
 You can now launch Ubuntu from your start menu. The first time you will be asked to set a username and password for your Linux account (be sure to remember these or write them down). Finally, run the following command to install the necessary build tools:
 
+<p align="center">
 apt update && apt upgrade -y && apt install build-essential gdb -y
+</p>
 
 For more instructions and troubleshooting, see [this](https://docs.microsoft.com/en-us/windows/wsl/troubleshooting).
 
@@ -21,17 +23,21 @@ Save your files with the .s extension and VS Code will automatically enable the 
 
 To open a file, you first need to open it. f your files are at C:\Users\Student\Documents\CO\Lab, you should use the following command to navigate to it in WSL (case sensitive!):
 
+<p align="center">
 cd /mnt/c/Users/Student/Documents/CO/Lab
+</p>
+
+Once in the right folder, we can compile the file using the following command:
 
 <p align="center">
-Once in the right folder, we can compile the file using the following command:
-</p>
 gcc -no-pie -o nameofyourprogram nameofyoursource.s
+</p>
 
 To run the code, we then type the following command:
 
+<p align="center">
 ./nameofyourprogram
-
+</p>
 
 
 
