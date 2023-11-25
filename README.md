@@ -23,3 +23,7 @@ To open a file, you first need to open it. f your files are at C:\Users\Student\
 
 cd /mnt/c/Users/Student/Documents/CO/Lab
 
+Once in the right folder, we can compile the file using the following command:
+
+gcc -no-pie -o nameofyourprogram nameofyoursource.s
+
