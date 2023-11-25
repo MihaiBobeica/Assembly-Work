@@ -16,3 +16,6 @@ For more instructions and troubleshooting, see [this](https://docs.microsoft.com
 To open a file, you first need to open it. f your files are at C:\Users\Student\Documents\CO\Lab, you should use the following command to navigate to it in WSL (case sensitive!):
 
 cd /mnt/c/Users/Student/Documents/CO/Lab
+
+Visual Studio Code has an extension for easy integration with WSL. You can find it at https://
+marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl
